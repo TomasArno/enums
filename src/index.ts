@@ -18,7 +18,7 @@ function getData(params: any) {
 	return controller.getEpisodesBySeason(params.season);
 }
 
-(function main(): void {
+(function main() {
 	const parametroBusqueda = processParams(process.argv.slice(2));
 
 	if (parametroBusqueda) {

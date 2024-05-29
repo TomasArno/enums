@@ -1,5 +1,4 @@
-import * as jsonfile from 'jsonfile';
-const DB_PATH = 'src/database/rick-and-morty.json';
+import db from "../database/rick-and-morty.json"
 
 interface Episode {
 	id: number;
@@ -23,7 +22,7 @@ interface Database {
 	results: Episode[];
 }
 
-const getAllEpisodes = (): Database => jsonfile.readFileSync(DB_PATH);
+const getAllEpisodes = (): Database => db;
 
 const getEpisodeByID = (id: number): Episode | undefined =>
 	getAllEpisodes().results.find((episode: Episode) => episode.id === id);

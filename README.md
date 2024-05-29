@@ -6,7 +6,7 @@
 
 Las enumeraciones son una herramienta que nos permite crear un conjunto de constantes nombradas para **describir un grupo de casos especifícos**, tales como los días de la semana, los meses del año, los tipos de errores posibles al accionar sobre una base de datos, etc. Las creamos con la palabra reservada `enum`, veamos cómo funciona:
 
-    const enum PuntosCardinales {
+    enum PuntosCardinales {
         North = "N"
         South = "S"
         East = "E"
