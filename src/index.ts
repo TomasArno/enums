@@ -14,7 +14,6 @@ function processParams(params: string[]) {
 function getData(params: any) {
 	if (params.id) return controller.getEpisodeByID(Number(params.id));
 
-	// Tener en cuenta que las asersiones de tipo son solo para engañar a TS, no impacta en el código transpilado a JS. Por esto es que es necesario realizar verificaciones en el controlador.
 	return controller.getEpisodesBySeason(params.season);
 }
 

@@ -1,6 +1,6 @@
 import * as model from '../model/model';
 
-enum Messages {
+const enum Messages {
 	OK = 'Solicitud exitosa!',
 	BAD_REQUEST = 'Por favor verifique los parámetros ingresados.',
 	NOT_FOUND = 'No se encontró la información solicitada.',
