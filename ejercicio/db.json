@@ -1,0 +1,223 @@
+[
+    {
+        "personajes": [
+            {
+                "name": "Homer Simpson",
+                "age": 39,
+                "numberOfChildren": 3
+            },
+            {
+                "name": "Marge Simpson",
+                "age": 36,
+                "numberOfChildren": 3
+            },
+            {
+                "name": "Bart Simpson",
+                "age": 10,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Lisa Simpson",
+                "age": 8,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Maggie Simpson",
+                "age": 1,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Ned Flanders",
+                "age": 60,
+                "numberOfChildren": 2
+            },
+            {
+                "name": "Maude Flanders",
+                "age": 35,
+                "numberOfChildren": 2
+            },
+            {
+                "name": "Rod Flanders",
+                "age": 12,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Todd Flanders",
+                "age": 10,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Apu Nahasapeemapetilon",
+                "age": 44,
+                "numberOfChildren": 8
+            },
+            {
+                "name": "Manjula Nahasapeemapetilon",
+                "age": 38,
+                "numberOfChildren": 8
+            },
+            {
+                "name": "Mr. Burns",
+                "age": 104,
+                "numberOfChildren": 1
+            },
+            {
+                "name": "Waylon Smithers",
+                "age": 40,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Milhouse Van Houten",
+                "age": 10,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Kirk Van Houten",
+                "age": 42,
+                "numberOfChildren": 1
+            },
+            {
+                "name": "Luann Van Houten",
+                "age": 40,
+                "numberOfChildren": 1
+            },
+            {
+                "name": "Seymour Skinner",
+                "age": 50,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Edna Krabappel",
+                "age": 40,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Barney Gumble",
+                "age": 40,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Moe Szyslak",
+                "age": 47,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Ralph Wiggum",
+                "age": 8,
+                "numberOfChildren": 0
+            },
+            {
+                "name": "Clancy Wiggum",
+                "age": 45,
+                "numberOfChildren": 1
+            },
+            {
+                "name": "Sarah Wiggum",
+                "age": 40,
+                "numberOfChildren": 1
+            }
+        ],
+        "info": [
+            {
+                "episodeNumber": 1,
+                "seasonNumber": 1,
+                "dateOfIssue": "1989-12-17"
+            },
+            {
+                "episodeNumber": 2,
+                "seasonNumber": 1,
+                "dateOfIssue": "1990-01-14"
+            },
+            {
+                "episodeNumber": 3,
+                "seasonNumber": 1,
+                "dateOfIssue": "1990-01-21"
+            },
+            {
+                "episodeNumber": 4,
+                "seasonNumber": 2,
+                "dateOfIssue": "1990-10-11"
+            },
+            {
+                "episodeNumber": 5,
+                "seasonNumber": 2,
+                "dateOfIssue": "1990-10-18"
+            },
+            {
+                "episodeNumber": 6,
+                "seasonNumber": 1,
+                "dateOfIssue": "1990-02-04"
+            },
+            {
+                "episodeNumber": 7,
+                "seasonNumber": 9,
+                "dateOfIssue": "1997-11-16"
+            },
+            {
+                "episodeNumber": 8,
+                "seasonNumber": 1,
+                "dateOfIssue": "1990-03-18"
+            },
+            {
+                "episodeNumber": 9,
+                "seasonNumber": 2,
+                "dateOfIssue": "1990-12-06"
+            },
+            {
+                "episodeNumber": 10,
+                "seasonNumber": 3,
+                "dateOfIssue": "1991-11-21"
+            },
+            {
+                "episodeNumber": 11,
+                "seasonNumber": 3,
+                "dateOfIssue": "1991-12-05"
+            },
+            {
+                "episodeNumber": 12,
+                "seasonNumber": 5,
+                "dateOfIssue": "1993-12-16"
+            },
+            {
+                "episodeNumber": 13,
+                "seasonNumber": 1,
+                "dateOfIssue": "1990-05-13"
+            },
+            {
+                "episodeNumber": 14,
+                "seasonNumber": 3,
+                "dateOfIssue": "1992-01-23"
+            },
+            {
+                "episodeNumber": 15,
+                "seasonNumber": 4,
+                "dateOfIssue": "1992-09-24"
+            },
+            {
+                "episodeNumber": 16,
+                "seasonNumber": 4,
+                "dateOfIssue": "1993-02-18"
+            },
+            {
+                "episodeNumber": 17,
+                "seasonNumber": 4,
+                "dateOfIssue": "1993-02-11"
+            },
+            {
+                "episodeNumber": 18,
+                "seasonNumber": 4,
+                "dateOfIssue": "1993-03-25"
+            },
+            {
+                "episodeNumber": 19,
+                "seasonNumber": 2,
+                "dateOfIssue": "1991-02-21"
+            },
+            {
+                "episodeNumber": 20,
+                "seasonNumber": 5,
+                "dateOfIssue": "1993-10-14"
+            }
+        ]
+    }
+]
