@@ -16,4 +16,4 @@ Desarrollar una aplicación con las siguientes funciones, utilizando la arquitec
 
 - getEpisodesByYearOfIssue ==> Debe obtener todos los episodios del año de emisión indicado.
 
---- HACER LAS VALIDACIONES PERTINENTES EN CADA UNA DE LAS CAPAS ---
+--- HACER LAS VALIDACIONES PERTINENTES EN CADA UNA DE LAS CAPAS | RESPONDER CON MENSAJES PREDEFINIDOS GUARDADOS EN ENUMS ---
